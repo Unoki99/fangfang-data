@@ -1,0 +1,2 @@
+# kaikki.org-dictionary-Chinese.jsonl, only what the app reads (327758 pages)
+wiktionary-zh-01.jsonl.gz
